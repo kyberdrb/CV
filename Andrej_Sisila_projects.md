@@ -7,7 +7,7 @@
 **Ordered / cooperated by:** Andrej Šišila  
 **Position in team:** Developer  
 **Processed work part in details:** Design and implementation of an UPS on Arduino UNO platform.  
-**Operating system:** Embedded (Arduino)
+**Operating system:** Embedded (Arduino)  
 **Used languages, software, tools and technologies:**
 * **Language:** C
 * **IDE:** Arduino IDE
