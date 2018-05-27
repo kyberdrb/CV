@@ -14,6 +14,8 @@
 * **Hardware:** Arduino UNO, Display with keypad
 * **Link:** https://github.com/kyberdrb/Arduino_UPS
 
+---
+
 **Project number:** 1  
 **Project title:** (Arch) Linux backup script  
 **Date:** Dec 12, 2017  
@@ -26,77 +28,38 @@
 * **Language:** Bash
 * **Link:** https://github.com/kyberdrb/backup_script_arch_linux
 
-Project number
-:
-2
-Project title
-:
-Git scripts
-Date
-:
-May 22, 2018
-Short description
-:
-Scripts for managing git repositories
-Ordered / cooperated by
-:
-Andrej Šišila
-Position in team
-:
-Developer
-Processed work part in details
-:
-Scripts for automation of “pull” and “status” operations for multiple repositories and script for automation of “push” operation for a single repository.
-Operating system
-:
-(Arch) Linux
-Used languages, software, tools and technologies
-:
-Language: Bash
-Link: https://github.com/kyberdrb/git_manage_all_repositories
+---
 
+**Project number:** 2  
+**Project title:** Git scripts  
+**Date:** May 22, 2018  
+**Short description:** Scripts for managing git repositories  
+**Ordered / cooperated by:** Andrej Šišila  
+**Position in team:** Developer  
+**Processed work part in details:** 
+Scripts for automation of “pull” and “status” operations for multiple repositories and script for automation of “push” operation for a single repository.  
+**Operating system:** (Arch) Linux  
+**Used languages, software, tools and technologies:**
+* **Language:** Bash
+* **Link:** https://github.com/kyberdrb/git_manage_all_repositories
 
+---
 
+**Project number:** 3  
+**Project title:** Pong  
+**Date:** Feb 7, 2017  
+**Short description:** Network multiplayer game “Pong”  
+**Ordered / cooperated by:** Andrej Šišila  
+**Position in team:** Developer  
+**Processed work part in details:** Desing and implementation of a network multiplayer game “Pong”.  
+**Operating system:** (Arch) Linux  
+**Used languages, software, tools and technologies:**
+* **Language:** C
+* **Technologies:** SDL, sockets
+* **IDE:** CodeBlocks
+* **Link:** https://github.com/kyberdrb/semestralka_vstavane_systemy
 
-
-
-
-
-
-
-
-
-
-Project number
-:
-3
-Project title
-:
-Pong
-Date
-:
-Feb 7, 2017
-Short description
-:
-Network multiplayer game “Pong”
-Ordered / cooperated by
-:
-Andrej Šišila
-Position in team
-:
-Developer
-Processed work part in details
-:
-Desing and implementation of a network multiplayer game “Pong”.
-Operating system
-:
-(Arch) Linux
-Used languages, software, tools and technologies
-:
-Language: C
-Technologies: SDL, sockets
-IDE: CodeBlocks
-Link: https://github.com/kyberdrb/semestralka_vstavane_systemy
+---
 
 Project number
 :
