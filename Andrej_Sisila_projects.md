@@ -9,40 +9,22 @@
 **Processed work part in details:** Design and implementation of an UPS on Arduino UNO platform.  
 **Operating system:** Embedded (Arduino)
 **Used languages, software, tools and technologies:**
-<p>Language: C</p>  
+* **Language:** C
+* **IDE:** Arduino IDE
+* **Hardware:** Arduino UNO, Display with keypad
+* **Link:** https://github.com/kyberdrb/Arduino_UPS
 
-**IDE:** Arduino IDE  
-**Hardware:** Arduino UNO, Display with keypad  
-**Link:** https://github.com/kyberdrb/Arduino_UPS
-
-Project number
-:
-1
-Project title
-:
-(Arch) Linux backup script
-Date
-:
-Dec 12, 2017
-Short description
-:
-Backup of entire Linux system to an external storage
-Ordered / cooperated by
-:
-Andrej Šišila
-Position in team
-:
-Developer
-Processed work part in details
-:
-See “Short description”
-Operating system
-:
-(Arch) Linux
-Used languages, software, tools and technologies
-:
-Language: Bash
-Link: https://github.com/kyberdrb/backup_script_arch_linux
+**Project number:** 1  
+**Project title:** (Arch) Linux backup script  
+**Date:** Dec 12, 2017  
+**Short description:** Backup of entire Linux system to an external storage  
+**Ordered / cooperated by:** Andrej Šišila  
+**Position in team:** Developer  
+**Processed work part in details:** See “Short description”  
+**Operating system:** (Arch) Linux  
+**Used languages, software, tools and technologies:**
+* **Language:** Bash
+* **Link:** https://github.com/kyberdrb/backup_script_arch_linux
 
 Project number
 :
