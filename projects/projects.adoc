@@ -1,0 +1,155 @@
+# Projects
+
+## Chapter Parser
+
+*Date*: 12/2020-ongoing +
+*Description*: Parse custom file with chapter information into `ffmpeg` compatible metadata. +
+*Operating system*: cross-platform (Linux, Windows - via `git bash` or WLS) +
+*Language*: C{plus}{plus} +
+*Technologies*: CMake +
+*IDE*: CLion +
+*Link*: link:https://github.com/kyberdrb/chapter_parser[GitHub - Chapter Parser]
+
+## update_arch
+
+*Date*: 12/2020-ongoing +
+*Description*: Script for fully automated update process on Arch Linux. +
+*Operating system*: Linux (Arch Linux and Arch-based distributions) +
+*Language*: Bash +
+*IDE*: vim +
+*Link*: link:https://github.com/kyberdrb/update_arch[GitHub - update_arch]
+
+## watch_with_mpv
+
+*Date*: 1/2021 +
+*Description*: Extension for opening video streams in `mpv` player with enabled hardware acceleration, i.e. GPU decoded video. +
+*Operating system*: cross-platform (tested on Chrome extension) +
+*Language*: JavaScript +
+*IDE*: vim +
+*Technologies*: npm +
+*Links*: +
+link:https://github.com/kyberdrb/watch-with-mpv[GitHub - watch_with_mpv] +
+link:https://github.com/winneon/watch-with-mpv[forked from winneon/watch-with-mpv]
+
+## Benchmarking Linux Kernels
+
+*Date*: 12/2020-1/2021 +
+*Description*: Decision support tool for choosing the 'best' kernel. +
+*Operating system*: Linux +
+*Language*: Bash +
+*Technologies*: PCA method +
+*IDE*: vim +
+*Link*: link:https://github.com/kyberdrb/benchmarking-linux-kernels[GitHub - Benchmarking Linux Kernels]
+
+## Playlist Player
+
+*Date*: 4/2020-6/2020 +
+*Description*: Create and play YouTube playlists without creating a channel on YouTube. +
+*Operating system*: cross-platform (Linux, Windows - via `git bash` or WLS) +
+*Language*: Python +
+*IDE*: vim +
+*Link*: link:https://github.com/kyberdrb/playlist_player[GitHub - Playlist Player]
+
+## Employee Management System
+
+*Date*: 7/2020-8/2020 +
+*Description*: Playing with C{plus}{plus}, smart pointers and move semantics. +
+*Operating system*: cross-platform (Linux, Windows - via `git bash` or WLS) +
+*Language*: C{plus}{plus}, Bash +
+*Technologies*: CMake combined with custom build system, Google Test +
+*IDE*: Atom +
+*Link*: link:https://github.com/kyberdrb/EmployeeManagementSystem[GitHub - Employee Management System]
+
+## countdown
+
+*Date*: 3/2020-4/2020 +
+*Description*: Timer. +
+*Operating system*: Linux +
+*Language*: Bash +
+*IDE*: vim +
+*Link*: link:https://github.com/kyberdrb/countdown[GitHub - countdown]
+
+## Google Test: Example project
+
+*Date*: 8/2019 +
+*Description*: Example project with integrated Google Test framework. +
+*Operating system*: cross-platform (Linux, Windows) +
+*Language*: C{plus}{plus} +
+*Technologies*: CMake, Google Test +
+*IDE*: CLion +
+*Link*: link:https://github.com/kyberdrb/gtest_example[GitHub - gtest_example]
+
+## GCD - Greatest Common Denominator
+
+*Date*: 4/2019 +
+*Description*: Utility to compute the greatest common denominator from given numbers. +
+*Operating system*: Linux +
+*Language*: C{plus}{plus} +
+*Technologies*: CMake, multithreading, Google Test +
+*IDE*: CLion +
+*Link*: link:https://github.com/kyberdrb/GCD[GitHub - GCD]
+
+## SDN firewall
+
+*Date*: 5/2018 - 6/2018 +
+*Description*: SDN firewall is a service implemented with POX SDN controller. Interaction with the module is provided via Bash script. +
+*Cooperation with*: Department of Information Networks, FRI ŽU +
+*Position in team*: Developer +
+*Operating system*: Linux (Mininet/Ubuntu/Debian) +
+*Language*: Python, Bash +
+*IDE*: Visual Studio Code +
+*Technologies*: Mininet, POX, OpenFlow 1.0 +
+*Links*: +
+link:https://github.com/kyberdrb/sdnfirewall[GitHub - SDN Firewall] +
+link:https://github.com/kyberdrb/FRI/tree/master/Ing/4.semester/Integracia_Sieti/semestralka[GitHub - SDN Firewall - Documentation]
+
+## Keylogger
+
+*Date*: 8/2017 - 9/2017 +
+*Description*: Capture input from a keyboard into a text file. +
+*Operating system*: Windows +
+*Language*: C +
+*IDE*: CodeBlocks +
+*Link*: link:https://github.com/kyberdrb/windows_keylogger[GitHub - Keylogger]
+
+## Párovačka
+
+*Date*: Qt: 7/2017 - 8/2017; Python: 7/2018 - 8/2018 +
+*Description*: A programm that finds couples from a group of people to give each other a gift without reciprocality. First version of the application was written in C{plus}{plus} with Qt. Then it was rewritten into Python with Tkinter. +
+*Operating system*: cross-platform (Windows/Linux) +
+*Language (Technologies)*: C{plus}{plus} (Qt), Python (Tkinter) +
+*IDE*: Qt Creator, PyCharm, Visual Studio Code +
+*Links*: +
+link:https://github.com/kyberdrb/Parovacka_Qt[GitHub - Párovačka - Qt] +
+link:https://github.com/kyberdrb/Parovacka_Python[GitHub - Párovačka - Python]
+
+## Arduino UPS
+
+*Date*: 2/2017 - 7/2017 +
+*Description*: UPS made of old UPS and Arduino. +
+*Operating system*: Embedded (Arduino) +
+*Language*: C +
+*IDE*: Arduino IDE +
+*Hardware*: Arduino UNO, LCD KeyPad Shield +
+*Link*: link:https://github.com/kyberdrb/Arduino_UPS[GitHub - Arduino UPS]
+
+## Pong
+
+*Date*: 11/2016 - 12/2016 +
+*Description*: Network multiplayer game. +
+*Operating system*: Linux (Arch Linux) +
+*Language*: C +
+*Technologies*: SDL, sockets +
+*IDE*: CodeBlocks +
+*Link*: link:https://github.com/kyberdrb/semestralka_vstavane_systemy[GitHub - Pong]
+
+## Android application for position tracking of a mobile device
+
+*Date*: 10/2015 - 8/2016 +
+*Description*: Application for gathering location information from GPS, Wi-Fi and Bluetooth. Collected data were being sent to the server. +
+*Cooperation with*: Departement of Informatics, FRI ŽU +
+*Operating system*: Android (4.0+) +
+*Language*: Java +
+*Techologies*: REST API +
+*IDE*: Android Studio +
+*Link*: link:https://github.com/kyberdrb/PedTrack[GitHub - PedTrack]
